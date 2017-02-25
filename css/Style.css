@@ -1,0 +1,218 @@
+﻿html {
+    background-color: #eee;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+}
+
+
+.page {
+    width: 100%;
+    height: 100%;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+}
+#body { font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+}
+
+.admin {
+
+    width: 400px;
+    margin: auto;
+    height: 140px;
+    margin-top: 300px;
+    background-color: #eee;
+    background-image: none;
+}
+ #body { font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+}
+.user{
+    font-family:'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333	;
+    background-color: #eee	;
+    background-image: none;
+
+}
+#body { font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+}
+.details{
+    font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+}
+#body { font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+}
+.start{
+  font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee	;
+    background-image: none;  
+}
+#body { font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+}
+.delete{
+font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none; 
+
+}
+
+.userLogin{
+    font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none; 
+}
+.password{
+ font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none; 
+}
+.info{
+     font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+}
+.information{
+     font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+}
+.container {
+    display: block;
+    width: auto;
+    margin: 25px 40%;
+}
+
+        .auto-style1 {
+            height: 44px;
+            width: 290px;
+            font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+    float:left;
+    display:inline;
+            
+        }
+        .auto-style2 {
+            height: 44px;
+            width: 290px;
+            font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+        }
+        .auto-style3 {
+            width: 290px;
+            font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+        }
+        .auto-style4 {
+            width: 290px;
+            font-family: 'Segoe UI';
+    font-size: medium;
+    font-weight: bold;
+    font-style: inherit;
+    font-variant: normal;
+    color: #333333;
+    background-color: #eee;
+    background-image: none;
+        }
